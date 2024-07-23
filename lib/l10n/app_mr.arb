@@ -1,0 +1,17 @@
+{
+    "helloWorld": "नमस्कार विश्व",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "login": "लॉगिन",
+    "aCompleteValidEmailExamplejoegmailcom": "एक पूर्ण, वैध ईमेल उदा. joe@gmail.com",
+    "pleaseEnsureTheEmailEnteredIsValid": "कृपया प्रविष्ट केलेला ईमेल वैध असल्याची खात्री करा",
+    "passwordShouldbeatleast_characterswithatleastoneletterandnumber": "पासवर्ड किमान एक अक्षर आणि संख्या असलेला किमान 8 वर्णांचा असावा",
+    "passwordRequirements": "पासवर्ड किमान 8 वर्णांचा असावा आणि त्यात किमान एक अक्षर आणि संख्या असावी",
+    "submit": "सबमिट करा",
+    "submitting": "सबमिट करत आहे...",
+    "splashScreen": "स्प्लॅश स्क्रीन",
+    "popularShows": "लोकप्रिय शो",
+    "noDataFound": "डेटा आढळला नाही",
+    "noInternetConnection": "इंटरनेट कनेक्शन नाही",
+    "logout": "लॉग आउट"
+}
